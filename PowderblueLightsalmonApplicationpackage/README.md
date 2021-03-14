@@ -28,13 +28,13 @@ Pré-requisitos: npm / yarn
 ### entrar na pasta do projeto front end web
 
 ### instalar dependências
-sh
-yarn install
+`` `sh
+`` `yarn install
 
 
 ### executar o projeto
-sh
-yarn start
+`` `sh
+`` `yarn start
 
 # Autores
 Carlos Antônio / Jose Gustavo / Mateus Augusto / Arthur Batista
