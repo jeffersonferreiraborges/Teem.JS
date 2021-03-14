@@ -23,17 +23,23 @@ A aplicação consiste em um Bot para discord que seleciona e transmite músicas
 ## Front end web
 Pré-requisitos: npm / yarn
 
-clonar repositório
+### clonar repositório
 
 ### entrar na pasta do projeto front end web
 
 ### instalar dependências
+```sh
 yarn install
-
+```
 
 ### executar o projeto
+```sh
 yarn start
-
+```
 
 # Autores
 Carlos Antônio / Jose Gustavo / Mateus Augusto / Arthur Batista
+
+https://github.com/ArthBatista 
+https://github.com/josegustavoo
+https://github.com/sungbox
