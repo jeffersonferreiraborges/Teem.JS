@@ -3,9 +3,9 @@
 # Sobre o projeto
 
 
-Bot Teamjs é uma aplicaçã web construída durante a 1° Competição de projetos: Portifóleo Criativo, evento organizado pela Rafaella Ballerini.
+Bot Teamjs é uma aplicação web construída durante a 1° Competição de projetos: Portfólio Criativo, evento organizado pela Rafaella Ballerini.
 
-A aplicação consiste em um Bot para discord que seleciona e transmite músicas, onde o usuario indica a musica desejada, e depois a musica é transmitida no canal selecionado.
+A aplicação consiste em um Bot para discord que seleciona e transmite músicas, onde o usuário indica a música desejada, e depois a música é transmitida no canal selecionado.
 
 # Tecnologias utilizadas
 ## Back end
